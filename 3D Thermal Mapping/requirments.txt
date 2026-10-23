@@ -1,0 +1,7 @@
+ipykernel
+jupyter
+opencv-python
+matplotlib
+numpy
+
+working for python version 3.15
